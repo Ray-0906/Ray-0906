@@ -43,47 +43,12 @@ ECE undergrad at **NIT Jamshedpur** who builds things that actually ship — fro
 
 ---
 
-## Projects
-
-**[System-2.0 — AI Life Gamification Platform](https://github.com/Ray-0906)**
-Full-stack productivity platform converting real-world goals into AI-generated missions and progression systems. Semantic RAG pipeline using LangGraph + Pinecone + Mistral AI for long-term memory and context-aware coaching. Event-driven architecture with Redis and BullMQ. Containerized via Docker and Kubernetes.
-`React.js` `Node.js` `MongoDB` `Redis` `LangGraph` `Pinecone` `Kubernetes`
-
----
-
-**[TruthGuardAgent — AI Fact Verification](https://github.com/Ray-0906)**
-Multi-agent system for collaborative claim analysis and fact-checking deployed across a browser extension, web app, WhatsApp, and Telegram. Parallel agent execution with structured payload handling.
-`Python` `Flask` `ADK` `React` `Browser Extension`
-
----
-
-**[Custom Unix-like Shell](https://github.com/Ray-0906)**
-Interactive CLI shell in Java supporting builtin commands, external process execution, complex stdout/stderr redirection, and a full REPL with command completion and persistent history via JLine.
-`Java 25` `JLine 3` `ProcessBuilder` `Maven`
-
----
-
-## Experience
-
-**Agentic AI & Automation Engineer** — Brahmaastra.ai *(Oct–Dec 2025)*
-Built n8n-based automation pipelines for real estate businesses — lead handling, follow-ups, data sync, and client communication workflows. Worked on Happy First, a community-driven self-growth application.
-
----
-
-## Highlights
-
-- 🥉 **3rd Place** — HackHorizon (100+ teams), 2024
-- 🌐 **Semi-Finalist** — Google GenAI Exchange Hackathon, 2025
-- 🔥 **Finalist** — Meta PyTorch OpenEnv Hackathon, 2026
-- ⚡ **Specialist** on Codeforces
-
----
 
 ## Currently
 
-- 📖 Learning — DSA (advanced patterns), Machine Learning
-- 🔭 Exploring — Blockchain, Go
-- 🤝 Open to — SaaS collabs with low competition, browser extension projects, agentic AI tools
+- 📖 Learning — DSA (advanced patterns), System Design 
+- 🔭 Exploring — Distributed systems, Vibe codes, Good Animes, Donghuas and Cooking videos
+- 🤝 Open to — SaaS collabs with low competition, Startup Collaborations 
 
 ---
 
@@ -103,7 +68,7 @@ Built n8n-based automation pipelines for real estate businesses — lead handlin
 
 <div align="center">
 
-*Ask me about Java, Chrome extensions, digital electronics, or building agentic systems.*
+*Ask me about  Devlopment , System architect solutions, building agentic systems or chinese Donghuas.*
 
 [![](https://visitcount.itsvg.in/api?id=ray-0906&icon=0&color=0)](https://visitcount.itsvg.in)
 
